@@ -1,0 +1,24 @@
+{
+  "name": "corejs",
+  "version": "0.0.1",
+  "description": "A collection of utility libraries used very often.",
+  "main": "packages/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/walkthunder/corejs.git"
+  },
+  "keywords": [
+    "corejs",
+    "lib",
+    "javascript"
+  ],
+  "author": "walkthunder",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/walkthunder/corejs/issues"
+  },
+  "homepage": "https://github.com/walkthunder/corejs#readme"
+}
